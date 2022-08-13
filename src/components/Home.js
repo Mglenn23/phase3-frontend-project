@@ -11,7 +11,7 @@ function Home() {
                 <hr className="divider" />
               </div>
               <div className="col-lg-8 align-self-baseline">
-                <p className="text-white-75 mb-5">Mini game for you who bored or stressfull!</p>
+                <p className="text-white-75 mb-5">Mini game for play!</p>
               </div>
             </div>
           </div>
